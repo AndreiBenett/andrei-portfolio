@@ -1,7 +1,6 @@
 export const technicalSkills = [
-  "PHP",
-  "Laravel",
-  "FlutterFlow",
+  "C#",
+  ".NET",
   "HTML",
   "CSS",
   "JavaScript",
@@ -10,6 +9,11 @@ export const technicalSkills = [
   "Scrum",
   "Ecwid",
   "UI/UX Basics",
+  "PHP",
+  "Laravel",
+  "FlutterFlow",
+  "SSMS",
+  "MYSQL",
 ]
 
 export const otherSkills = [
@@ -87,6 +91,6 @@ export const certifications = [
   "Ecwid – Platform Configuration & Customization",
   "Kaggle – Python, Data Analysis, Intro to Machine Learning",
   "Career Seminar: Work Ethics and Professional Conduct",
-  "RA 11313 Safe Spaces Act / RA 7877 Anti-Sexual Harassment",
+  "Critical Thinking in the AI Era",
   "Data Privacy Practices for Capstone Projects",
 ]

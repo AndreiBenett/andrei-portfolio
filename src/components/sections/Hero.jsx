@@ -43,7 +43,7 @@ export default function Hero({ darkMode }) {
                   : "border-slate-300 bg-white text-slate-700"
               }`}
             >
-              Web & Mobile Developer
+              Web Developer
             </span>
           </motion.div>
 
@@ -53,7 +53,6 @@ export default function Hero({ darkMode }) {
             transition={{ delay: 0.05, duration: 0.5 }}
             className="text-sm font-semibold uppercase tracking-[0.35em] text-sky-400"
           >
-            Premium Developer Portfolio
           </motion.p>
 
           <motion.h1
@@ -79,8 +78,8 @@ export default function Hero({ darkMode }) {
                 darkMode ? "text-white/90" : "text-slate-800"
               }`}
             >
-              Building modern web and mobile solutions with clean UI,
-              structured thinking, and practical real-world value.
+              Building secure, scalable web and mobile solutions with clean UI/UX, 
+              structured system analysis, and practical real-world value.
             </p>
 
             <p
@@ -88,10 +87,11 @@ export default function Hero({ darkMode }) {
                 darkMode ? "text-slate-300" : "text-slate-600"
               }`}
             >
-              I’m a BSIT student focused on creating usable digital systems,
-              improving user experiences, and contributing to meaningful
-              projects. Currently seeking internship or OJT opportunities where
-              I can grow in a professional development environment.
+              I am a graduating BSIT honors candidate and IT Intern at PHilMech, 
+              specializing in full-stack development using Agile methodologies. 
+              I am actively seeking full-time IT opportunities post-graduation 
+              where I can leverage my technical expertise and utilize AI tools to 
+              deliver impactful, forward-thinking digital solutions.
             </p>
           </motion.div>
 
@@ -222,7 +222,7 @@ export default function Hero({ darkMode }) {
               </motion.div>
 
               <div className="mb-4 rounded-full border border-sky-400/20 bg-sky-400/10 px-4 py-2 text-xs font-semibold uppercase tracking-[0.22em] text-sky-300">
-                Seeking Internship / OJT
+                Seeking Full-Time Roles
               </div>
 
               <p className="text-sm font-semibold uppercase tracking-[0.28em] text-sky-400">
